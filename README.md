@@ -1,4 +1,4 @@
-code_fragment-
+code_fragment
 ==============
 
-useful code fragment 
+some of mine useful code fragment
