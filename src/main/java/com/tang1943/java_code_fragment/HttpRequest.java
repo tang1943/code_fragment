@@ -8,6 +8,14 @@ import java.net.URLConnection;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * java 模拟发送 HTTP 请求
+ * 
+ * @author tang1943
+ *
+ * Create on 2015年6月24日 上午10:23:40
+ *
+ */
 public class HttpRequest {
     /**
      * 向指定URL发送GET方法的请求
