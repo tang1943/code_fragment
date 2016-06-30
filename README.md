@@ -1,4 +1,4 @@
 code_fragment
 ==============
 
-useful pieces of java code
+收集一些经常用到但无法装进脑子的代码、配置等
